@@ -1,2 +1,2 @@
 # hello-world
-Lab 1 
+I'm pretty rad I think
